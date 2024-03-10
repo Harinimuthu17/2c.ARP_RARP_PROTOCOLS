@@ -50,13 +50,20 @@ while True:
     s.send(ip.encode())
     print("MAC Address", s.recv(1024).decode())
 ```
+#
+#
+#
 ### PROGRAM:
 ![Screenshot 2024-03-10 193423](https://github.com/SHREELEKHAS/2c.ARP_RARP_PROTOCOLS/assets/149768910/ffde1142-7c53-4d4b-a4d9-a466ac893d2c)
 ![Screenshot 2024-03-10 193442](https://github.com/SHREELEKHAS/2c.ARP_RARP_PROTOCOLS/assets/149768910/c0adab05-511b-4bbc-9d5a-73ca803f1802)
-
+#
+#
+#
 ## OUPUT - ARP
 ![Screenshot 2024-03-10 193544](https://github.com/SHREELEKHAS/2c.ARP_RARP_PROTOCOLS/assets/149768910/fac26237-e2c9-4015-8521-421f820f1572)
-
+#
+#
+#
 ## PROGRAM - RARP
 ### client:
 ```
@@ -88,13 +95,20 @@ while True:
     s.send(mac_address.encode())
     print("Logical Address:", s.recv(1024).decode())
 ```
+#
+#
+#
 ### PROGRAM:
 ![Screenshot 2024-03-10 194336](https://github.com/SHREELEKHAS/2c.ARP_RARP_PROTOCOLS/assets/149768910/b0db037a-ec1c-443d-83f4-2a93853ca4db)
 ![Screenshot 2024-03-10 194348](https://github.com/SHREELEKHAS/2c.ARP_RARP_PROTOCOLS/assets/149768910/e671e9c9-1f40-4e97-9bc5-8d64b7915e82)
-
+#
+#
+#
 ## OUPUT -RARP
 ![Screenshot 2024-03-10 194453](https://github.com/SHREELEKHAS/2c.ARP_RARP_PROTOCOLS/assets/149768910/65fd00c1-913a-4b64-86b9-b4fd80aff348)
-
+#
+#
+#
 ## RESULT
 Thus, the python program for simulating ARP protocols using TCP was successfully 
 executed.
