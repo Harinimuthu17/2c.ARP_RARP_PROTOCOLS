@@ -1,7 +1,7 @@
 ## SHREE LEKHA.S 212223110052
 # 2c.SIMULATING ARP /RARP PROTOCOLS
 ## AIM
-To write a python program for simulating ARP protocols using TCP.
+To write a python program for simulating ARP/RARP protocols using TCP.
 ## ALGORITHM:
 ## Client:
 1. Start the program
@@ -16,7 +16,7 @@ To write a python program for simulating ARP protocols using TCP.
 stored.
 4. Read the IP address which is send by the client.
 5. Map the IP address with its MAC address and return the MAC address to client.
-P
+
 ## PROGRAM - ARP
 ### client:
 ```
@@ -97,5 +97,5 @@ while True:
 ![Screenshot 2024-03-10 194453](https://github.com/SHREELEKHAS/2c.ARP_RARP_PROTOCOLS/assets/149768910/65fd00c1-913a-4b64-86b9-b4fd80aff348)
 
 ## RESULT
-Thus, the python program for simulating ARP protocols using TCP was successfully 
+Thus, the python program for simulating ARP/RARP protocols using TCP was successfully 
 executed.
