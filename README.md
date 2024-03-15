@@ -1,4 +1,4 @@
-## SHREE LEKHA.S 212223110052
+## M.HARINI 212222240035
 # 2c.SIMULATING ARP /RARP PROTOCOLS
 ## AIM
 To write a python program for simulating ARP/RARP protocols using TCP.
@@ -51,11 +51,15 @@ while True:
     print("MAC Address", s.recv(1024).decode())
 ```
 ### PROGRAM:
-![Screenshot 2024-03-10 193423](https://github.com/SHREELEKHAS/2c.ARP_RARP_PROTOCOLS/assets/149768910/ffde1142-7c53-4d4b-a4d9-a466ac893d2c)
-![Screenshot 2024-03-10 193442](https://github.com/SHREELEKHAS/2c.ARP_RARP_PROTOCOLS/assets/149768910/c0adab05-511b-4bbc-9d5a-73ca803f1802)
+![image](https://github.com/Harinimuthu17/2c.ARP_RARP_PROTOCOLS/assets/130278614/f0ace5d6-3cb1-4dd6-a66e-c8dbead750a3)
 
-## OUPUT - ARP
-![Screenshot 2024-03-10 193544](https://github.com/SHREELEKHAS/2c.ARP_RARP_PROTOCOLS/assets/149768910/fac26237-e2c9-4015-8521-421f820f1572)
+![image](https://github.com/Harinimuthu17/2c.ARP_RARP_PROTOCOLS/assets/130278614/37f50960-837c-4f2b-afe1-bb1c3b1ba563)
+
+## OUPUT - ARP:
+
+![image](https://github.com/Harinimuthu17/2c.ARP_RARP_PROTOCOLS/assets/130278614/b523cfc2-7886-4732-a18d-3c2bb6830ad1)
+
+
 
 ## PROGRAM - RARP
 ### client:
@@ -90,11 +94,16 @@ while True:
 ```
 
 ### PROGRAM:
-![Screenshot 2024-03-10 194336](https://github.com/SHREELEKHAS/2c.ARP_RARP_PROTOCOLS/assets/149768910/b0db037a-ec1c-443d-83f4-2a93853ca4db)
-![Screenshot 2024-03-10 194348](https://github.com/SHREELEKHAS/2c.ARP_RARP_PROTOCOLS/assets/149768910/e671e9c9-1f40-4e97-9bc5-8d64b7915e82)
+![image](https://github.com/Harinimuthu17/2c.ARP_RARP_PROTOCOLS/assets/130278614/25d4f6c2-fd01-459f-a2d7-dfb5196ba6d9)
 
-## OUPUT -RARP
-![Screenshot 2024-03-10 194453](https://github.com/SHREELEKHAS/2c.ARP_RARP_PROTOCOLS/assets/149768910/65fd00c1-913a-4b64-86b9-b4fd80aff348)
+![image](https://github.com/Harinimuthu17/2c.ARP_RARP_PROTOCOLS/assets/130278614/7d642cde-90c3-47f8-91be-7c97a923c472)
+
+
+## OUTPUT -RARP: 
+
+![image](https://github.com/Harinimuthu17/2c.ARP_RARP_PROTOCOLS/assets/130278614/6b4c56cd-1adc-46c3-b37b-a9350e19f4ac)
+
+
 
 ## RESULT
 Thus, the python program for simulating ARP/RARP protocols using TCP was successfully 
